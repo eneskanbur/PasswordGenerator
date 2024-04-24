@@ -33,3 +33,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 
 This project is open-source and available under the MIT License.
+
+![image](https://github.com/eneskanbur/PasswordGenerator/assets/71046520/5ed642e7-a8f5-4f71-8b49-93fc1035c2e0)
